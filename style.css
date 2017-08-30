@@ -1,0 +1,23 @@
+div{
+	margin-left: 300px;
+	font-family: sans-serif;
+   }
+
+
+html{
+	background-color:lightgray;
+    }
+
+blockquote{
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+}
+
+h1,h2{
+	font-weight: bold;
+
+  }
